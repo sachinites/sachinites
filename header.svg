@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#18284b"/></linearGradient><linearGradient id="line"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<g stroke="url(#line)" stroke-width="2" opacity=".7" fill="none"><path d="M60 80 L220 150 L360 70 L520 180 L700 90 L860 170 L1050 70"/><path d="M80 250 L250 210 L420 270 L610 220 L800 270 L1010 210 L1140 260"/></g>
+<g fill="#22d3ee"><circle cx="60" cy="80" r="6"/><circle cx="220" cy="150" r="6"/><circle cx="360" cy="70" r="6"/><circle cx="520" cy="180" r="6"/><circle cx="700" cy="90" r="6"/><circle cx="860" cy="170" r="6"/><circle cx="1050" cy="70" r="6"/></g>
+<text x="600" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#f8fafc">ABHISHEK</text>
+<text x="600" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" fill="#a5f3fc">NETWORK SYSTEMS • C • LINUX • DPDK</text>
+<text x="600" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#c4b5fd">Control Plane | Data Plane | Systems Engineering</text>
+</svg>

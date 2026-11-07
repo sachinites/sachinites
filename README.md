@@ -1,49 +1,27 @@
+# Hi, I'm Abhishek 👋
 
-<h1 align="center">Hi, I'm Abhishek 👋</h1>
+### Network Systems Engineer | C | Linux | Networking | DPDK
 
-<h3 align="center">
-  Systems Engineer | Networking | High-Performance Computing
-</h3>
+I build and explore network systems, routing protocols, and high-performance datapaths.
 
-<p align="center">
-  Building networking systems from the ground up.
-</p>
+- 🔭 Working on network systems, routing, and datapath engineering
+- 🌱 Exploring EVPN, BGP, DPDK, and high-performance systems
+- 🧰 Interested in C, Linux internals, system programming, and protocol implementations
+- 🎓 Creating practical engineering courses and learning resources
+
+### Areas of Interest
+`C` `Linux` `Networking` `BGP` `EVPN` `DPDK` `System Programming` `Data Plane`
+
+### Featured Projects
+- **tcpip_stack** — A hands-on networking stack implementation
+- **EVPN** — Exploring EVPN control-plane and datapath behavior
+- **DPDK Datapath** — User-space high-performance packet processing
+- **GoBGP Wrapper** — C interface experiments with GoBGP
+
+### Connect
+- [CSEPracticals](https://www.csepracticals.com/)
+- [LinkedIn](https://www.linkedin.com/in/abhishekiit)
 
 ---
-
-### 👨‍💻 About Me
-
-- Systems and Network Software Engineer
-- Experienced in C, networking protocols, and system programming
-- Interested in building routers, datapaths, and high-performance systems
-- Exploring DPDK, lockless architectures, and Linux internals
-- Passionate about practical engineering and open-source development
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,docker,github,vscode" />
-</p>
-
-### 🚀 Featured Projects
-
-- **TCP/IP Stack** – Building networking protocols and forwarding functionality
-- **EVPN Implementation** – Implementing EVPN control-plane functionality
-- **DPDK Datapath** – High-performance packet processing
-- **Lockless Event Dispatcher** – Producer-consumer architecture
-
-### 📚 Technical Interests
-
-`C` `System Programming` `Networking`
-`DPDK` `BGP` `EVPN` `Linux`
-`Lockless Data Structures` `High Performance Computing`
-
-### 📊 GitHub Statistics
-
-<!-- Add GitHub statistics cards here -->
-
-### 🌐 Connect
-
-- LinkedIn
-- Udemy
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinites&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinites&layout=compact&theme=tokyonight)
